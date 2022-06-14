@@ -1,0 +1,114 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: red;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+.intro{
+    font-family: 'Coiny', cursive;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.yes-treasure-img1{
+display:none;
+}
+
+.part-two-yes-text{
+display:none;
+}
+
+.part-two-no-text{
+display:none;
+}
+
+.no-treasure-img1{
+display:none;
+}
+
+.yes-treasure-img2{
+display:none;
+}
+
+.no-treasure-img2{
+display:none;
+}
+
+.final-no-text{
+display:none;
+}
+
+.final-yes-text{
+display:none;
+}
+
+.yes-mountain-img{
+display:none;
+}
+
+.yes-button2{
+display:none;
+}
+
+.no-button2{
+display:none;
+}
+
+.yes-bridge-img{
+display:none;
+}
+
+.reset-button{
+display:none;
+}
